@@ -1,1 +1,0 @@
-Redis installed with CentOS Package Manager
